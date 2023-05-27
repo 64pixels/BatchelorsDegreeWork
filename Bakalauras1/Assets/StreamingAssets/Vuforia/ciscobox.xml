@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ciscobox" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ciscoboxs_assembly" assemblyId="c7ef8dcd00324d8a97d2adf445167b42">
+<Part name="ciscobox" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0114351 0.566019 0.288812" rotation="AD: 1 -9.4637e-07 21.6504 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0114351 0.566019 0.288812" rotation="AD: 1 -9.4637e-07 21.6504 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0532449 0.563852 0.289851" rotation="AD: -0.999202 0.040941 4.43062 180.233" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0 0.566019 0.288284" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

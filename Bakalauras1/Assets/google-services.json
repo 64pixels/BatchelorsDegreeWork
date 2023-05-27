@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155847526030",
+    "firebase_url": "https://unityanddbtest-default-rtdb.firebaseio.com",
+    "project_id": "unityanddbtest",
+    "storage_bucket": "unityanddbtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155847526030:android:ce1b5693fcab7c49d42bdf",
+        "android_client_info": {
+          "package_name": "com.DatabaseTest.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155847526030-mf3jqro5304f7d7s42e6pen8ggblesaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3qaRnc9KUR6hT-N8FXKmdJrhUZ708Du4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155847526030-mf3jqro5304f7d7s42e6pen8ggblesaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

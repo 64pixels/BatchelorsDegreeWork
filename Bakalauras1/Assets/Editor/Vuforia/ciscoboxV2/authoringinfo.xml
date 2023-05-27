@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="ciscoboxV2" targetId="19c4df1f2bfd41ebad1e3f3d3b33db07" version="14.0" toolVersion="10.13.3" bbox="-0.016266 0.054387 -0.000100 0.016266 0.058817 0.024911" previewImage="19c4df1f2bfd41ebad1e3f3d3b33db07_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ciscoboxV2s_assembly" assemblyId="11220a0bf5744dd290250da70a55ce50">
+<Part name="ciscoboxV2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0 0.0566019 0.0510467" rotation="AD: 1 0 0 180" image="ciscoboxV2_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0015245 0.0562814 0.026366" rotation="AD: 0.980701 0.195901 15.8999 179.913" image="ciscoboxV2_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.00068741 0.0562796 0.0262911" rotation="AD: 0.913912 0.406098 32.9601 179.961" image="ciscoboxV2_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.000229241 0.0561931 0.0259277" rotation="AD: -0.514539 0.857605 55.6829 180.016" image="ciscoboxV2_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.00176041 0.0562822 0.0263957" rotation="AD: 0.985269 0.171451 13.9155 179.9" image="ciscoboxV2_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

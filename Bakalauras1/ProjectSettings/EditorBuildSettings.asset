@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QrScanScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/Meniu.unity
+    guid: ef790f0332a7dc848a8fa3e2d11b79cf
+  - enabled: 1
+    path: Assets/Scenes/EditData.unity
+    guid: 0c2975a719c87e1439f449ef452569c4
+  - enabled: 1
+    path: Assets/Scenes/UseAR.unity
+    guid: 5e6f1ae581f01e043a47606b8f016e13
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e6ce224ddc2ce644c8ef7641eeadcdaf,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 14a85ea2366912a4c8f1573ccebcd68c, type: 2}
